@@ -1,2 +1,3 @@
-# lihueleiva.github.io
-Coder house final project
+# Desarrollo web - Project - Coderhouse
+
+## Lihue Leiva
